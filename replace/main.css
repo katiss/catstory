@@ -1,0 +1,40 @@
+body {
+    background-color: midnightblue;
+}
+
+p, h1, h3 {
+    color: aliceblue;
+    font-family: 'Padauk', sans-serif;
+}
+
+.myLabel, h2 {
+     font-family: 'Padauk', sans-serif;
+    color: midnightblue;
+}
+
+.standard {
+    padding: 3em;
+}
+
+.myForm {
+    background: aliceblue;
+}
+
+button {
+    background-color: midnightblue;
+    color: aliceblue;
+    font-family: 'Padauk', sans-serif;
+    border: midnightblue 2px solid;
+}
+
+input {
+    color: midnightblue;
+    background-color: aliceblue;
+    font-family: 'Padauk', sans-serif; 
+    border: midnightblue solid 2px;
+}
+
+input:focus {
+    border: midnightblue solid 4px;
+    background-color: lemonchiffon;
+}
